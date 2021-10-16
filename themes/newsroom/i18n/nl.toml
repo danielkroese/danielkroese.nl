@@ -1,0 +1,6 @@
+[share_story]
+  other = "Kopieer link"
+[link_copied]
+  other = "Link gekopieerd"
+[author_profile]
+  other = "{{ . }}'s profiel"

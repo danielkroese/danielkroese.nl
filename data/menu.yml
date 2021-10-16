@@ -1,0 +1,8 @@
+- item: Over
+  url: over/
+- item: Blog
+  url: ""
+- item: Rubrieken
+  url: categories
+- item: Tags
+  url: tags

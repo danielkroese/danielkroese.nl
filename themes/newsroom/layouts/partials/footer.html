@@ -1,0 +1,6 @@
+<footer class="footer wrap pale">
+  <p>&copy;&nbsp;<span class="year"></span>&nbsp;<a href="https://www.linkedin.com/in/daniel-kroese">{{ .Site.Title }}</a></p>
+</footer>
+{{ $scriptPath := "js/index.js" }}
+{{ $scripts := resources.Get $scriptPath | resources.ExecuteAsTemplate $scriptPath . | resources.Minify | resources.Fingerprint "sha512" }}
+<script src="{{ $scripts.Permalink }}"></script>
