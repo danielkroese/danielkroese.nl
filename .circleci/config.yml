@@ -7,7 +7,7 @@ jobs:
     environment:
       HUGO_BUILD_DIR: ~/blog/public
     steps:
-      - run: sudo apt-get update && sudo apt-get add git
+      - run: sudo apt-get update && sudo apt-get install git
       - checkout
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
       - add_ssh_keys:
