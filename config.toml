@@ -1,5 +1,5 @@
 baseurl = "https://danielkroese.nl/"  # Include trailing slash
-title = "DK.nl"
+title = "DK.NL"
 theme = "newsroom"
 defaultContentLanguage = 'nl'
 author = "Daniël Kroese"
