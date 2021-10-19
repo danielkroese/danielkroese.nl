@@ -1,4 +1,4 @@
-version: 2
+version: 2.1
 jobs:
   build:
     docker:
@@ -12,7 +12,7 @@ jobs:
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
       - add_ssh_keys:
           fingerprints:
-            - "7b:8f:bf:5b:1e:6d:53:78:d2:14:ca:57:90:0d:cd:ee"
+            - "6e:87:ad:fe:9e:fc:9c:24:b7:cd:20:80:9b:c1:81:cb"
       - deploy:
           name: deploy to VPS
           command: |
