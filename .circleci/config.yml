@@ -1,4 +1,4 @@
-version: 2.1
+version: 2
 jobs:
   build:
     docker:
@@ -14,10 +14,10 @@ jobs:
           fingerprints:
             - "7b:8f:bf:5b:1e:6d:53:78:d2:14:ca:57:90:0d:cd:ee"
       - deploy:
-          name: deploy to DigitalOcean
+          name: deploy to VPS
           command: |
-            if [ "${CIRCLE_BRANCH}" = "master" ]; then
+            if [ "${CIRCLE_BRANCH}" = "main" ]; then
               rsync -azv -e "ssh -o StrictHostKeyChecking=no -p ${DEPLOY_PORT}" --delete ${HUGO_BUILD_DIR}/ ${DEPLOY_USER}@${DEPLOY_HOST}:~/blog
             else
-              echo "Not master branch, dry run only"
+              echo "Not main branch, dry run only"
             fi
