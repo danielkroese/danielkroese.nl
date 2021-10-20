@@ -2,5 +2,7 @@
     <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
     {{ if .Title }}
     <figcaption>{{ .Title }}</figcaption>
+    {{ else }}
+    <figcaption>{{ .Text }}</figcaption>
     {{ end }}
   </figure>
