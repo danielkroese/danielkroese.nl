@@ -4,7 +4,7 @@ date: 2021-10-18T12:03:52+04:00
 image: "vliegtuig.png"
 ---
 
-Georgië, een land waarvan je de naam wel eens hoort, maar welke je niet zomaar even op de kaart kan aanwijzen. Wanneer twee vrienden besluiten om een half jaar te gaan studeren in Tbilisi, de hoofdstad van Georgië, is de interesse gewekt. Een maand voor vertrek heb ik de knoop doorgehakt en een vliegticket geboekt. Ik ga twee weken Georgië ontdekken met de twee beste gidsen die je kan wensen, Sven en Rikus!
+Georgië, een land waarvan je de naam wel eens hoort, maar welke je niet zomaar even op de kaart kan aanwijzen. Wanneer twee vrienden besluiten om een half jaar te gaan studeren in Tbilisi, de hoofdstad van Georgië, is de interesse gewekt. Een maand voor vertrek heb ik de knoop doorgehakt en een vliegticket geboekt. Ik ga twee weken Georgië ontdekken met de twee beste gidsen die je je kan wensen, Sven en Rikus!
 
 Mijn reis naar Georgië is de voornaamste reden dat ik - eindelijk - de tijd heb genomen om een blog op te zetten. Het zelfvernoemde adres lag al jáááren te verstoffen. Omdat ik tegenwoordig de meeste socialemedia links laat liggen, blijkt het lastiger om het thuisfront mee te laten genieten. Een goede aanleiding dus hier wat moeite in te steken.
 
@@ -15,7 +15,7 @@ Bij aankomst werd ik opgewacht door Sven en Rikus. Het was heel fijn om die twee
 ![Met de Lada onderweg naar het appartement.](maan-boven-weg.webp)
 ![De eerste indrukken van de stad.](straat-schemering.webp)
 
-Na een ritje van zo'n twintig minuten door de stad kwamen we aan bij het appartement. Deze is gelegen in de wijk ძველი თბილისი (dzveli t'bilisi), wat staat voor Oud Tblisi. Dit is een van de oudste wijken van de stad en is daarom erg gunstig gelegen naar het oude centrum van de stad. Dat betekent dat er veel te doen is op loopafstand! Niet dat dat anders een probleem zou zijn. Een taxi brengt je omgerekend voor zo'n twee euro naar de andere kant van de Tbilisi.
+Na een ritje van zo'n twintig minuten door de stad kwamen we aan bij het appartement. Deze is gelegen in de wijk ძველი თბილისი (dzveli t'bilisi), wat staat voor Oud Tblisi. Dit is een van de oudste wijken van de stad en is daarom erg gunstig gelegen naast het oude centrum van de stad. Dat betekent dat er veel te doen is op loopafstand! Niet dat dat anders een probleem zou zijn. Een taxi brengt je omgerekend voor zo'n twee euro naar de andere kant van de Tbilisi.
 
 ![Het appartement waar ik verblijf.](appartement-nacht.webp)
 
