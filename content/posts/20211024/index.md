@@ -30,7 +30,7 @@ We rijden verder de bergen in en passeren lange wegen welke vrijwel allemaal bew
 
 ![Een van de vele momenten dat we te maken kregen met een kudde koeien.](koeien-weg.webp)
 
-De bergen komen steeds dichterbij. Aan het begin van het gebergte doemt de Enguri-dam op. Dit is de op twee na hoogste stuwdam van de wereld met 271 meter hoogte. Het oogt allemaal wat verlaten en ironisch genoeg verteld het enige informatiebord meer over plannen voor toerisme dan over de dam zelf. Het helderblauwe water van het stuwmeer achter de dam steekt fel af tegen de enorme bergen.
+De bergen komen steeds dichterbij. Aan het begin van het gebergte doemt de Enguri-dam op. Dit is de op twee na hoogste stuwdam van de wereld met 271 meter hoogte. Het oogt allemaal wat verlaten en ironisch genoeg vertelt het enige informatiebord meer over plannen voor toerisme dan over de dam zelf. Het helderblauwe water van het stuwmeer achter de dam steekt fel af tegen de enorme bergen.
 
 ![De Enguri-dam.](stuwdam-enguri.webp)
 ![Het stuwmeer achter de dam. We zullen de aanvoerende rivier een hele tijd gaan volgen.](stuwmeer-enguri.webp)
