@@ -37,7 +37,7 @@ De bergen komen steeds dichterbij. Aan het begin van het gebergte doemt de Engur
 
 We vervolgen de rit over een lange, hobbelige bergweg. Omdat het donker begint te worden besluiten we om te overnachten in het kleine dorpje Kaishi. Deze ligt naast de Patari Uguri-rivier, welke het stuwmeer voedt met het smeltwater uit het gebergte. Het zijn in totaal misschien twintig huisjes met een paar (vrijwel dezelfde) winkeltjes, maar het voelt een stuk levendiger dan alles wat we in de afgelopen uren hebben gezien. We reserveren een hotelkamer boven een van de winkeltjes en gaan op zoek naar een restaurant. Die hebben we in een hele bijzondere vorm gevonden. We hebben een salade met soep en brood gegeten in een soort opberghok van een oud vrouwtje. Het smaakte prima!
 
-![Het uizicht waarop we tijdens de bergroute getrakteerd worden.](uitzicht-bergen.webp)
+![Het uitzicht waarop we tijdens de bergroute getrakteerd worden.](uitzicht-bergen.webp)
 ![Het aanzicht van Khaishi.](bergen-uitzicht.webp)
 ![De drie vrijwel identieke winkeltjes in Khaishi. We slapen boven het meest rechter winkeltje.](winkel-khaishi.webp)
 ![Het maal wat we voorgeschoteld krijgen in Khaishi.](eten-khaishi.webp)
