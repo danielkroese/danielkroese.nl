@@ -5,7 +5,7 @@ defaultContentLanguage = 'nl'
 author = "Daniël Kroese"
 copyright = "Copyright © 2021, Daniël Kroese"
 canonifyurls = true
-paginate = 6
+paginate = 11
 assetDir = "static"
 
 [markup]
