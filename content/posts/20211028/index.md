@@ -4,9 +4,9 @@ date: 2021-10-28T12:00:00+04:00
 image: "uitzicht-penthouse.webp"
 ---
 
-De laatste dagen zijn voorbij gevlogen! Dinsdag stond vooral in het teken van de reis terug naar Tblisi. Na zo'n dagenlange reis was wat rust wel welkom.
+De laatste dagen zijn voorbij gevlogen! Dinsdag stond vooral in het teken van de reis terug naar Tbilisi. Na zo'n dagenlange reis was wat rust wel welkom.
 
-Woensdag bracht ik een bezoek aan de bazaar in Tblisi. Dit was meteen de eerste keer dat ik de metro van de stad heb gebruikt. Het is onvoorstelbaar dat deze in de jaren '60 is gegraven, vooral door de enorme diepte. Zoals op de foto te zien daal je bijna een halve kilometer af naar het station.
+Woensdag bracht ik een bezoek aan de bazaar in Tbilisi. Dit was meteen de eerste keer dat ik de metro van de stad heb gebruikt. Het is onvoorstelbaar dat deze in de jaren '60 is gegraven, vooral door de enorme diepte. Zoals op de foto te zien daal je bijna een halve kilometer af naar het station.
 
 ![De roltrap naar het metrostation. Gelukkig ging deze vliegensvlug.](roltrap-metro.webp)
 

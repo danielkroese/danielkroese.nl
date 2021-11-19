@@ -15,7 +15,7 @@ Bij aankomst werd ik opgewacht door Sven en Rikus. Het was heel fijn om die twee
 ![Met de Lada onderweg naar het appartement.](maan-boven-weg.webp)
 ![De eerste indrukken van de stad.](straat-schemering.webp)
 
-Na een ritje van zo'n twintig minuten door de stad kwamen we aan bij het appartement. Deze is gelegen in de wijk ძველი თბილისი (dzveli t'bilisi), wat staat voor Oud Tblisi. Dit is een van de oudste wijken van de stad en is daarom erg gunstig gelegen naast het oude centrum van de stad. Dat betekent dat er veel te doen is op loopafstand! Niet dat dat anders een probleem zou zijn. Een taxi brengt je omgerekend voor zo'n twee euro naar de andere kant van de Tbilisi.
+Na een ritje van zo'n twintig minuten door de stad kwamen we aan bij het appartement. Deze is gelegen in de wijk ძველი თბილისი (dzveli t'bilisi), wat staat voor Oud Tbilisi. Dit is een van de oudste wijken van de stad en is daarom erg gunstig gelegen naast het oude centrum van de stad. Dat betekent dat er veel te doen is op loopafstand! Niet dat dat anders een probleem zou zijn. Een taxi brengt je omgerekend voor zo'n twee euro naar de andere kant van de Tbilisi.
 
 ![Het appartement waar ik verblijf.](appartement-nacht.webp)
 

@@ -6,7 +6,7 @@ image: "ruimtecomplex-aanzicht.webp"
 
 De laatste dag! Dus veel op de planning. 's Ochtends heb ik mijn laatste rondje door de stad gemaakt. Op de Dry Bridge Market heb ik nog een oud sovjet bordje gevonden met daarop 'Stop! Levensgevaar!'. Leuk voor in de gang thuis.
 
-'s Middags heb ik Rikus opgehaald met Sven met de Lada, om naar een verlaten sovjet ruimtevaartonderzoeksinstituut te gaan. Hier heb ik een aantal foto's van gevonden op internet. Na een zoektocht op de kaart vond ik de locatie hiervan op ongeveer 45 minuten rijden van Tblisi. Dat leek ons nog erg leuk om te bezoeken. De laatste drie kilometer van de rit waren erg ruig, we moesten over een grintpad rijden wat nogal spannend was met de Lada. Eenmaal daar aangekomen bleek het niet helemaal verlaten te zijn. In het huisje naast de poort bleek iemand ingetrokken te zijn. Enige voorzichtigheid was dus geboden en we zijn iets verderop stiekem over het hek geklommen. De foto bovenaan de pagina laat het aangezicht zien van deze ruïne.
+'s Middags heb ik Rikus opgehaald met Sven met de Lada, om naar een verlaten sovjet ruimtevaartonderzoeksinstituut te gaan. Hier heb ik een aantal foto's van gevonden op internet. Na een zoektocht op de kaart vond ik de locatie hiervan op ongeveer 45 minuten rijden van Tbilisi. Dat leek ons nog erg leuk om te bezoeken. De laatste drie kilometer van de rit waren erg ruig, we moesten over een grintpad rijden wat nogal spannend was met de Lada. Eenmaal daar aangekomen bleek het niet helemaal verlaten te zijn. In het huisje naast de poort bleek iemand ingetrokken te zijn. Enige voorzichtigheid was dus geboden en we zijn iets verderop stiekem over het hek geklommen. De foto bovenaan de pagina laat het aangezicht zien van deze ruïne.
 
 ![Een van de gebouwen op het terrein.](ronde-ruimteloods.webp)
 ![Deze gasmaskers lagen nog ergens in de hoek te verstoffen. We hebben natuurlijk alles laten liggen zoals we het hebben gevonden.](gasmaskers.webp)
@@ -18,7 +18,7 @@ Op dit terrein zat in de sovjettijd een onderzoeksinstituut gevestigd. Helaas ko
 ![Stukken schroot.](ruimteschroot.webp)
 ![Nog meer schroot, met een oud vliegtuig.](ruimteschroot2.webp)
 
-Ik wilde de jongens graag nog bedanken voor de gastvrijheid en het avontuur van de afgelopen twee weken. Daarom ben ik op zoek gegaan naar de chiqueste restaurants van het land. Door de lage prijzen is dat zelfs voor mij betaalbaar! De keuze is gevallen op het restaurant van het Vinotel, een heel oud hotel in de oude binnenstad van Tblisi. We hebben daar echt onwijs lekker gegeten. We hadden twee obers en een sommelier, goede service, drie gangen en heerlijke wijn. Desondanks was ik iets meer dan honderd euro kwijt voor ons drieën. Een aanrader dus!
+Ik wilde de jongens graag nog bedanken voor de gastvrijheid en het avontuur van de afgelopen twee weken. Daarom ben ik op zoek gegaan naar de chique-ste restaurants van het land. Door de lage prijzen is dat zelfs voor mij betaalbaar! De keuze is gevallen op het restaurant van het Vinotel, een heel oud hotel in de oude binnenstad van Tbilisi. We hebben daar echt onwijs lekker gegeten. We hadden twee obers en een sommelier, goede service, drie gangen en heerlijke wijn. Desondanks was ik iets meer dan honderd euro kwijt voor ons drieën. Een aanrader dus!
 
 ![Aan het einde van het heerlijke maal.](vinotel-tafel.webp)
 
